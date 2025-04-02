@@ -22,7 +22,7 @@ This project is a **REST API** built with **Laravel**, using **JWT (JSON Web Tok
 
 ### Prerequisites
 
-- **PHP** (version 7.3 or higher)
+- **PHP** (8)
 - **Composer** (for dependency management)
 - **MySQL** (or any relational database)
 - **Postman** or any API testing tool for testing the API.
@@ -34,5 +34,5 @@ This project is a **REST API** built with **Laravel**, using **JWT (JSON Web Tok
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/JWT-RESTAPI-LARAVEL.git
+git clone https://github.com/farhanalishah23/JWT-RESTAPI-LARAVEL.git
 cd JWT-RESTAPI-LARAVEL
