@@ -2,8 +2,8 @@
 
 This project is a **REST API** built with **Laravel**, using **JWT (JSON Web Tokens)** for user authentication. The API provides basic authentication functionality, including **user registration** and **login**. Upon successful authentication, a JWT token is generated, which can be used to access protected routes in the API.
 
-![Laravel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel_logo.svg/1200px-Laravel_logo.svg.png)  
-![JWT Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/JSON_Web_Token_Logo.svg)
+![Laravel Logo](https://logowik.com/content/uploads/images/laravel8530.jpg)  
+![JWT Logo](https://miro.medium.com/v2/resize:fit:800/0*WddOBoMIYbSPNGSD.png)
 
 ## Features
 
